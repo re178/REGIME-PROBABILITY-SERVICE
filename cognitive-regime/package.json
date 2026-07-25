@@ -1,0 +1,8 @@
+{
+  "name": "cognitive-regime",
+  "version": "1.0.0",
+  "description": "Market regime detection & Bayesian probability estimation",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "axios": "^1.6.0", "dotenv": "^16.3.1", "express": "^4.18.2" }
+}
